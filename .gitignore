@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+.streamlit/
+models/difficulty_model.joblib
+.dementia_data.db
